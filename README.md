@@ -175,3 +175,4 @@ while True:
 ![gambar7](ss/7.png)
 
 
+Terimakasih:)
