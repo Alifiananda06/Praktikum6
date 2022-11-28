@@ -58,7 +58,7 @@ Buat Dictionary daftar kontak:
     print(daftarKontak.items())
 
     
-![gambar2](ss/2.png.png)
+![gambar2](ss/2.png)
 
 
 ## Tugas Praktikum
